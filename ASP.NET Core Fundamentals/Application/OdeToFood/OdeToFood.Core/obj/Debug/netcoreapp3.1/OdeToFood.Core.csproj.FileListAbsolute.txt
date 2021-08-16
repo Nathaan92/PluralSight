@@ -1,0 +1,10 @@
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\natha\Documents\GitHub\PluralSight\ASP.NET Core Fundamentals\Application\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
